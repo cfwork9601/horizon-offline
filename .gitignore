@@ -1,0 +1,22 @@
+# Local binaries and downloads
+*.AppImage
+*.tar.gz
+*.zip
+*.jar
+
+# Temporary and extract folders
+squashfs-root/
+/tmp/
+
+# OS / Editor files
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# Game save and cache directories
+.local/
+saves/
+logs/
+crash-reports/

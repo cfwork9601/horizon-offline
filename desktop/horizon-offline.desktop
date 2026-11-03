@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Horizon (Offline)
+GenericName=Minecraft Rust Edition (Direct Play)
+Comment=Play Horizon directly without logging in (Minecraft rewritten in Rust)
+Exec=play-horizon
+Icon=horizon
+Terminal=false
+Categories=Game;ActionGame;AdventureGame;
+StartupWMClass=horizon
